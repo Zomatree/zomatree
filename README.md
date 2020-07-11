@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, im Zomatree 👋
 
-<!--
-**zomatree/zomatree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a programmer thats works with Python, rust, elixir and web dev.
 
-Here are some ideas to get you started:
+I use PostgreSQL as my database of choice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I do commissions so if anyone needs something shoot me a friend request on discord (Zomatree#7757)
+
+I can do:
+  - discord bots
+  - websites
+  - general programs
+  
+I use sublime text and vim as my text editors with the one dark pro theme.
