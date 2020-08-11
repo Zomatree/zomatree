@@ -2,6 +2,10 @@
 
 Im a programmer thats works with Python, rust, elixir and web dev.
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=zomatree&theme=onedark)](https://github.com/Zomatree)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomatree&theme=onedark&layout=compact)](https://github.com/Zomatree)
+
 I use PostgreSQL as my database of choice.
 
 I do commissions so if anyone needs something shoot me a friend request on discord (Zomatree#7757)
