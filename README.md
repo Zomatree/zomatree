@@ -1,6 +1,6 @@
-### Hi there, im Zomatree 👋
+### Hi there, i'm Zomatree 👋
 
-Im a programmer thats works with Python, rust and web dev.
+I'm a programmer thats works with Python, rust and web dev.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=zomatree&theme=onedark)](https://github.com/Zomatree)
 
