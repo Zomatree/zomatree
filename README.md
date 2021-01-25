@@ -1,6 +1,6 @@
 ### Hi there, i'm Zomatree 👋
 
-I'm a programmer thats works with Python, rust, node.js and web dev (html, css and js).
+I'm a programmer thats works with Python, rust, node.js, C# and web dev (html, css and js).
 
 My pronouns are He/Him.
 
