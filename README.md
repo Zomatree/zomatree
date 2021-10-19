@@ -2,8 +2,6 @@
 
 I'm a programmer thats works with Python, rust, node.js, C# and web dev (html, css and js).
 
-My pronouns are He/Him.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomatree&theme=onedark&layout=compact)](https://github.com/Zomatree)
 
 I use PostgreSQL as my database of choice.
