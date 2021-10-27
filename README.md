@@ -8,8 +8,7 @@ I use PostgreSQL as my database of choice.
 
 #### My dev setup:
 - btw i use arch
-- i use WSL for my dev
-- vim as my text editor with the one dark pro theme.
+- minimal Vscode setup with ayu theme
 - zsh + p10k
 
 My dotfiles are [here](https://github.com/Zomatree/dotfiles)
