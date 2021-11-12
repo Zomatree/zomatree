@@ -7,7 +7,7 @@ I'm a programmer thats works with Python, rust, node.js, C# and web dev (html, c
 I use PostgreSQL as my database of choice.
 
 #### My dev setup:
-- btw i use arch
+- [btw i use arch](https://iusearchbtw.lol/)
 - minimal Vscode setup with ayu theme
 - zsh + p10k
 
