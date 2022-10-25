@@ -1,12 +1,14 @@
 ### Hi there, i'm Zomatree 👋
 
-I'm a programmer thats works with Python, rust, node.js, C# and web dev (html, css and js).
+I'm a programmer thats works with Python, Rust and Javascript.
 
-I use PostgreSQL as my database of choice.
+I enjoy making small projects in rust and doing web development related projects.
 
-#### My dev setup:
-- [btw i use arch](https://iusearchbtw.lol/)
-- minimal Vscode setup with ayu theme
-- zsh + p10k
+My current projects that i am working on are a React style gui framework in python and a Revolt client in rust.
 
-My dotfiles are [here](https://github.com/Zomatree/dotfiles)
+Things I use:
+  - Arch Wsl
+  - Vscode
+  - PostgreSQL
+  - Ayu Theme
+  - Windows Terminal
