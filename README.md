@@ -8,5 +8,5 @@ Things I use:
   - Arch Wsl
   - Vscode
   - PostgreSQL
-  - Ayu Theme
+  - [My Custom Theme](https://github.com/Zomatree/horizon-theme-vscode)
   - Windows Terminal
