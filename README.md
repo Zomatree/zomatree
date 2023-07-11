@@ -2,7 +2,7 @@
 
 A programmer who works with Python, Rust and Typescript.
 
-I enjoy making small projects in rust and doing web development related projects.
+I enjoy messing aroud with static typing, making small projects and doing web development.
 
 Things I use:
   - Arch Wsl
